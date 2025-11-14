@@ -1,5 +1,3 @@
-import { keyframes } from "@emotion/react";
-
 export const animationStyles = `
 
 @keyframes float {
